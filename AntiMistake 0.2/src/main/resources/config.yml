@@ -1,0 +1,24 @@
+Prefix: "&8&l[&3&lAntiMistake&8&l]"
+
+PermCheck: "am.staff"
+
+Password: "uwu"
+
+Mode: 1
+
+Cooldown:
+  Time: 15
+  Event: "kick %p uwu"
+
+AM:
+  KickWrong: true
+  SpamMsg: true
+
+Message:
+  IsStaff: "&eU need to login"
+  Reload: "&aReload config!"
+  NoPerm: "&cU do not have permission to use this command"
+  Success: "&aSuccessfully confirmed"
+  Wrong: "&cWrong pass"
+  SetPass: "&cPlease set your pass: /am setpass <password>"
+  Confirmed: "&aU have confirmed"
